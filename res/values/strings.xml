@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">wlzz_managers</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_login">wlzz</string>
+    <string name="account">account</string>
+    <string name="passwd">passwd</string>
+    <string name="inputacc">input your account</string>
+    <string name="inputpwd">input your passwd</string>
+    <string name="submit">submit</string>
+    <string name="loginWellcome">工作站管理员登录</string>
+
+</resources>
